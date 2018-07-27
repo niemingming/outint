@@ -1,0 +1,20 @@
+*** Creating Trace Output File 'outint.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"startup_lpc17xx.o"'
+### List of Objects: adding '"main.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 "startup_lpc17xx.o" "main.o" --strict --scatter "outint.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\outint.map" -o "outint.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'outint.axf'
+### ADS-LD Command File: 'outint.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'outint.lnp', Handle=0x00000FD0
+### Writing '.lnp' file
+### ADS-LD Command file 'outint.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 1 errors
+### Updating obj list
+### LDADS_file() completed.

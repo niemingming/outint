@@ -1,0 +1,7 @@
+Dependencies for Project 'outint', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_LPC17xx.s)(0x4BB19EDC)(--cpu Cortex-M3 -g --apcs=interwork -I "F:\Keil\ARM\INC" -I "F:\Keil\ARM\INC\NXP\LPC17xx" --list ".\Lst\startup_LPC17xx.lst" --xref -o ".\obj\startup_LPC17xx.o" --depend ".\obj\startup_LPC17xx.d")
+F (.\main.c)(0x5B5AB525)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I "F:\Keil\ARM\INC" -I "F:\Keil\ARM\INC\NXP\LPC17xx" -o ".\obj\main.o" --omf_browse ".\obj\main.crf" --depend ".\obj\main.d")
+I (F:\Keil\ARM\INC\NXP\LPC17xx\LPC17xx.h)(0x4BB19F94)
+I (F:\Keil\ARM\RV31\INC\core_cm3.h)(0x4BDE8684)
+I (F:\Keil\ARM\RV31\INC\stdint.h)(0x4BA13B96)
+I (F:\Keil\ARM\INC\NXP\LPC17xx\system_LPC17xx.h)(0x4BB19F94)

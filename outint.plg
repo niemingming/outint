@@ -1,0 +1,54 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+F:\keilworkspace\outint\outint.uvproj
+Project File Date:  07/27/2018
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling startup_LPC17xx.s...
+compiling main.c...
+main.c(42): warning:  #1-D: last line of file ends without a newline
+main.c:   }
+main.c:    ^
+main.c: main.c: 1 warning, 0 errors
+linking...
+outint.axf: Error: L6218E: Undefined symbol SystemInit (referred from main.o).
+outint.axf: Not enough information to list image symbols.
+outint.axf: Finished: 1 information, 0 warning and 1 error messages.
+Target not created
+Build target 'Target 1'
+compiling main.c...
+linking...
+outint.axf: Error: L6218E: Undefined symbol SystemInit (referred from main.o).
+outint.axf: Not enough information to list image symbols.
+outint.axf: Finished: 1 information, 0 warning and 1 error messages.
+Target not created
+Build target 'Target 1'
+assembling startup_LPC17xx.s...
+compiling main.c...
+linking...
+.\obj\outint.axf: Error: L6218E: Undefined symbol SystemInit (referred from main.o).
+.\obj\outint.axf: Not enough information to list image symbols.
+.\obj\outint.axf: Finished: 1 information, 0 warning and 1 error messages.
+Target not created
+Build target 'Target 1'
+linking...
+.\obj\outint.axf: Error: L6218E: Undefined symbol SystemInit (referred from main.o).
+.\obj\outint.axf: Not enough information to list image symbols.
+.\obj\outint.axf: Finished: 1 information, 0 warning and 1 error messages.
+Target not created
+Build target 'Target 1'
+linking...
+.\obj\outint.axf: Error: L6218E: Undefined symbol SystemInit (referred from main.o).
+.\obj\outint.axf: Not enough information to list image symbols.
+.\obj\outint.axf: Finished: 1 information, 0 warning and 1 error messages.
+Target not created
+Build target 'Target 1'
+compiling main.c...
+linking...
+Program Size: Code=564 RO-data=236 RW-data=4 ZI-data=612  
+FromELF: creating hex file...
+".\obj\outint.axf" - 0 Error(s), 0 Warning(s).
